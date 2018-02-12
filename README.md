@@ -4,7 +4,7 @@ Private module for doom emacs to emulate parts of spacemacs.
 
 # Install
 
-`` sh
+``` sh
 git clone https://github.com/dp12/doom-emacs-spacemacs-ish ~/.emacs.d/modules/private/spacemacs-ish
 ```
 
